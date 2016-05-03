@@ -1,7 +1,4 @@
 # ET4394-Wireless-Networking
 
-NS3:
+This is the deliverable of the NS3 and GNU assignment.
 
-
-
-GNU:
